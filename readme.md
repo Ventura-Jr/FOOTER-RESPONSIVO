@@ -1,7 +1,9 @@
-# FOOTER-RESPONSIVO
+# Footer-responsivo
 Utilizamos a tag footer para delimitar o conteúdo de um rodapé dentro do HTML.
 
-A tag footer pode ser usada múltiplas vezes em uma mesma página, contanto que seu uso seja semanticamente correto, e para isso, a tag footer> deve ser utilizada dentro do body, ou dentro de elementos de fluxo, tais como: nav, section, article, aside, entre outros.
+A tag footer pode ser usada múltiplas vezes em uma mesma página, contanto que seu uso seja semanticamente correto, 
+e para isso, a tag footer deve ser utilizada dentro do body, ou dentro de elementos de fluxo, tais como: nav, 
+  section, article, aside, entre outros.
 
 ![image](https://github.com/Ventura-Jr/RELOGIO-DIGITAL/assets/122493018/eec70c39-7180-4de8-a1ce-2257b2a313af)
 
@@ -16,4 +18,5 @@ O Footer foi desenvolvido utilizando as seguintes tecnologias:
 O footer responsivo foi desenvolvido por Ventura Jr, entusiasta por tecnologia, durante o período de estudo de progamação front-end.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) 
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
