@@ -1,7 +1,7 @@
-# Footer
+# FOOTER-RESPONSIVO
 Utilizamos a tag footer para delimitar o conteúdo de um rodapé dentro do HTML.
 
-A tag footer pode ser usada múltiplas vezes em uma mesma página, contanto que seu uso seja semanticamente correto, e para isso, a tag <footer> deve ser utilizada dentro do body, ou dentro de elementos de fluxo, tais como: <nav>, <section>, <article>, <aside>, entre outros.
+A tag footer pode ser usada múltiplas vezes em uma mesma página, contanto que seu uso seja semanticamente correto, e para isso, a tag footer> deve ser utilizada dentro do body, ou dentro de elementos de fluxo, tais como: nav, section, article, aside, entre outros.
 
 ![image](https://github.com/Ventura-Jr/RELOGIO-DIGITAL/assets/122493018/eec70c39-7180-4de8-a1ce-2257b2a313af)
 
